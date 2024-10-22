@@ -1,0 +1,11 @@
+{
+  "name": "svgstrokeanimation060",
+  "version": "1.0.0",
+  "description": "svg stroke animation demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Schalk van Dyk",
+  "license": "ISC"
+}
